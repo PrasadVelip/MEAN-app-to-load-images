@@ -1,0 +1,21 @@
+{
+  "name": "nodeMongo",
+  "version": "1.0.0",
+  "description": "Node.js and MongoDb tutorial.",
+  "main": "Server.js",
+  ,
+ 
+  "keywords": [
+    "Node.js",
+    "mongoDb"
+  ],
+  "author": "Prasad",
+  "license": "ISC",
+  
+  
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "mongoose": "^4.1.2"
+  }
+}
